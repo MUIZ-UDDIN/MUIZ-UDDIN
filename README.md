@@ -23,6 +23,98 @@ I build **production-ready AI systems** that scale. With 4+ years of experience 
 
 ---
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sunstone CRM</h3>
+      <p><img src="https://img.shields.io/badge/Private-6c757d?style=for-the-badge" /></p>
+      <p>Enterprise CRM platform for companies to analyze every business detail — quotes, deals, and customer insights. Integrated with Twilio for SMS, live chat & calls, Gmail API for contact sync, and real-time analytics dashboards.</p>
+      <p><a href="https://www.sunstonecrm.com/auth/login">→ Visit Site</a></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">CS2 Automation System</h3>
+      <p><img src="https://img.shields.io/badge/Private-6c757d?style=for-the-badge" /></p>
+      <p>Full automation suite for CS2 deployed on client's remote VMs via SSH. Automates Steam login, cookie management, session handling, and in-game tasks — tracking XP/level progression.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">Sports Data Intelligence</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Private-6c757d?style=for-the-badge" /></p>
+      <p>Built fully automated data pipelines to collect millions of data points on lesser-known sports worldwide — scraping, cleaning, and structuring everything end-to-end with zero manual work. Researched sport origins, founder biographies, locations, and rulesets. Compiled top 10 deceased players per sport with birth records, career stats, and life stories. Mapped equipment ecosystems identifying niche manufacturers and equipment origins. Used free & low-cost APIs to keep client expenses minimal while delivering enterprise-grade data accuracy.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Scraping-43B02A?style=flat&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">AutoAnalyst Engine</h3>
+      <p><img src="https://img.shields.io/badge/Open_Source-7c3aed?style=for-the-badge" /> <a href="https://github.com/MUIZ-UDDIN/AutoAnalyst-Engine">→ Repo</a></p>
+      <p>Autonomous AI research agent with multi-step reasoning, live web exploration via Tavily, and automated report generation using Groq Function Calling and an iterative Plan-Act-Observe loop.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq-7c3aed?style=flat" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">CogniFlow</h3>
+      <p><img src="https://img.shields.io/badge/Open_Source-7c3aed?style=for-the-badge" /> <a href="https://github.com/MUIZ-UDDIN/CogniFlow">→ Repo</a></p>
+      <p>Autonomous RAG Intelligence Platform for real-time document analysis with a streaming FastAPI backend, ChromaDB vector search, and a live-sync Next.js dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">EchoSentinel</h3>
+      <p><img src="https://img.shields.io/badge/Open_Source-7c3aed?style=for-the-badge" /> <a href="https://github.com/MUIZ-UDDIN/EchoSentinel">→ Repo</a></p>
+      <p>End-to-end sentiment analysis platform with FastAPI backend, SQLAlchemy persistence, and a real-time dashboard to monitor market trends from global news sources.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-FF6F00?style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Face Recognition (FaceNet)</h3>
+      <p><img src="https://img.shields.io/badge/Open_Source-7c3aed?style=for-the-badge" /> <a href="https://github.com/MUIZ-UDDIN/FaceRecog_FaceNet">→ Repo</a></p>
+      <p>Face recognition system using FaceNet architecture for accurate facial identification and verification with TensorFlow and OpenCV.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### 🛠️ Tech Stack
 
 <table>
