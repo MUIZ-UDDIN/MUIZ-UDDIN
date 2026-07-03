@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muiz Ud Din</h1>  <h3 align="right"> Visit my portfolio: muizuddin.com (https://muizuddin.com)</h3>
+<h1 align="center">Hi 👋, I'm Muiz Ud Din</h1>  
+<h3 align="center">Data Scientist & Full-Stack AI Engineer — <a href="https://muizuddin.com" target="_blank">muizuddin.com</a></h3>
 <h3 align="center">Data Scientist & Full-Stack AI Engineer — Top Rated on Upwork</h3>
 
 <p align="center">
