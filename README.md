@@ -173,5 +173,9 @@ I build **production-ready AI systems** that scale. With 4+ years of experience 
   <a href="https://github.com/MUIZ-UDDIN"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~muizuddin"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="mailto:muizdin143@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://muizuddin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://muizuddin.com"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
+
+---
+
+Built by [Muiz Ud Din](https://muizuddin.com)
